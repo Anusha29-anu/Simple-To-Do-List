@@ -1,3 +1,4 @@
+<img width="1879" height="965" alt="Screenshot 2025-09-27 211022" src="https://github.com/user-attachments/assets/5a5fb498-37f2-4b46-9d95-05635cd4fa4d" />
 # Simple-To-Do-List
 Simple To-Do List 📝
 A clean, responsive, and feature-rich to-do list application built with HTML, CSS, and JavaScript.
